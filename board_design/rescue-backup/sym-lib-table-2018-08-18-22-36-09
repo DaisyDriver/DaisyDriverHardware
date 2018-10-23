@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name fergboard_ii-rescue)(type Legacy)(uri ${KIPRJMOD}/fergboard_ii-rescue.lib)(options "")(descr ""))
+  (lib (name ferg_logo)(type Legacy)(uri "/Users/fergusriche/Dropbox (Cambridge University)/KiCad/motor_board_2/library/ferg_logo.lib")(options "")(descr ""))
+  (lib (name pca9511a)(type Legacy)(uri "/Users/fergusriche/Dropbox (Cambridge University)/KiCad/motor_board_2/library/pca9511a.lib")(options "")(descr ""))
+  (lib (name nl17sz126)(type Legacy)(uri "/Users/fergusriche/Dropbox (Cambridge University)/KiCad/motor_board_2/library/nl17sz126.lib")(options "")(descr ""))
+)

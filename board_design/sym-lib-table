@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name fergboard_ii-cache)(type Legacy)(uri ${KIPRJMOD}/fergboard_ii-cache.lib)(options "")(descr ""))
+  (lib (name fergboard_ii-rescue)(type Legacy)(uri "/Users/fergusriche/Dropbox (Cambridge University)/Cambs/PhD/biomaker_challenge_2017/board_design/fergboard_ii-rescue.lib")(options "")(descr ""))
+  (lib (name fergboard_ii-rescue-2018-08-18-23-36-18)(type Legacy)(uri "/Users/fergusriche/Dropbox (Cambridge University)/Cambs/PhD/biomaker_challenge_2017/board_design/rescue-backup/fergboard_ii-rescue-2018-08-18-23-36-18.lib")(options "")(descr ""))
+  (lib (name ferg_logo)(type Legacy)(uri "/Users/fergusriche/Dropbox (Cambridge University)/KiCad/motor_board_2/library/ferg_logo.lib")(options "")(descr ""))
+  (lib (name pca9511a)(type Legacy)(uri "/Users/fergusriche/Dropbox (Cambridge University)/KiCad/motor_board_2/library/pca9511a.lib")(options "")(descr ""))
+)

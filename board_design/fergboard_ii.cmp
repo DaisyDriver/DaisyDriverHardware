@@ -1,0 +1,555 @@
+Cmp-Mod V01 Created by PcbNew   date = Monday, 30 April 2018 'pmt' 13:45:27
+
+BeginCmp
+TimeStamp = 5A0C6705
+Path = /59E09F77
+Reference = CON2;
+ValeurCmp = BARREL_JACK;
+IdModule  = biomaker_challenge:SMD_Jack;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E76110
+Path = /5A035FA1
+Reference = L2;
+ValeurCmp = 33u;
+IdModule  = Choke_SMD:Choke_SMD_6.3x6.3_H3;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B2FE
+Path = /59DB4792
+Reference = C2;
+ValeurCmp = 18p;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B304
+Path = /59DB48B3
+Reference = C3;
+ValeurCmp = 18p;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B30A
+Path = /59DB4E5E
+Reference = C4;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B310
+Path = /5A036343
+Reference = C5;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B316
+Path = /5A036042
+Reference = C6;
+ValeurCmp = 10n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B32E
+Path = /59DEAFAD
+Reference = C10;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B338
+Path = /59FBA464
+Reference = CON1;
+ValeurCmp = AVR-ISP-6;
+IdModule  = Buttons_Switches_THT:SW_NKK_G1xJP;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B386
+Path = /59DD0BEA
+Reference = R2;
+ValeurCmp = 22;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B38C
+Path = /59DD0C33
+Reference = R3;
+ValeurCmp = 22;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B392
+Path = /59DB4CC2
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B3B0
+Path = /59DD9F63
+Reference = R9;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B3B6
+Path = /59DDA054
+Reference = R10;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B404
+Path = /59E1CBEB
+Reference = R23;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B41C
+Path = /59DB4D50
+Reference = RV2;
+ValeurCmp = Varistor [CG0603MLC-05E Bourns];
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B477
+Path = /59E79D36
+Reference = U2;
+ValeurCmp = ATMEGA16U4-M-pad-connected;
+IdModule  = Housings_DFN_QFN:QFN-44-1EP_7x7mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B47F
+Path = /5AD7CBA4
+Reference = U3;
+ValeurCmp = lm1117;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B49A
+Path = /59DCD8DB
+Reference = U4;
+ValeurCmp = DRV8805;
+IdModule  = biomaker_challenge:DRV8805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B4B5
+Path = /59DECB88
+Reference = U5;
+ValeurCmp = DRV8805;
+IdModule  = biomaker_challenge:DRV8805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B4D0
+Path = /59DECD5C
+Reference = U6;
+ValeurCmp = DRV8805;
+IdModule  = biomaker_challenge:DRV8805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E77430
+Path = /59DB4DE1
+Reference = RV1;
+ValeurCmp = Varistor [CG0603MLC-05E Bourns];
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59FB4DA2
+Path = /59DB51F7
+Reference = P4;
+ValeurCmp = USB_OTG;
+IdModule  = biomaker_challenge:USB_Micro_B;
+EndCmp
+
+BeginCmp
+TimeStamp = 59FB5754
+Path = /59DFAAA0
+Reference = Y1;
+ValeurCmp = 16M crystal;
+IdModule  = Crystals:Crystal_SMD_3225-4pin_3.2x2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59FB68FE
+Path = /59FB8209
+Reference = F2;
+ValeurCmp = 2A Polyfuse;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 59FB6904
+Path = /5A271D1C
+Reference = F3;
+ValeurCmp = 1A Polyfuse;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 59FB690A
+Path = /5A271B87
+Reference = F4;
+ValeurCmp = 1A Polyfuse;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 59FB6910
+Path = /59FB858A
+Reference = F5;
+ValeurCmp = 1A Polyfuse;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A032577
+Path = /5A035E9A
+Reference = D2;
+ValeurCmp = D_Schottky_0V7;
+IdModule  = Diodes_SMD:D_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A03258E
+Path = /59DE0CE5
+Reference = RN1;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_Array_Convex_4x0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A0C7CE0
+Path = /5A036420
+Reference = C1;
+ValeurCmp = 33u;
+IdModule  = Resistors_SMD:R_2816;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A0C7CE5
+Path = /5A03BAEB
+Reference = C7;
+ValeurCmp = 330u;
+IdModule  = Resistors_SMD:R_2816;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A0F3488
+Path = /5A0F67A8
+Reference = C8;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A0F3494
+Path = /5A0F5EC9
+Reference = C11;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A0F349A
+Path = /5A0F7E30
+Reference = D3;
+ValeurCmp = Yellow;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A0F34A0
+Path = /5A0F7EE5
+Reference = D4;
+ValeurCmp = Yellow;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A0F34A6
+Path = /5A0F4BCA
+Reference = F1;
+ValeurCmp = 0A5 Polyfuse;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A0F34AC
+Path = /5A0F312F
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A0F34B2
+Path = /5A0F8316
+Reference = R7;
+ValeurCmp = 150;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A0F34B8
+Path = /5A0F8482
+Reference = R8;
+ValeurCmp = 150;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A106B7D
+Path = /5A0F5ECF
+Reference = C9;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A119B42
+Path = /5A11966D
+Reference = D1;
+ValeurCmp = D_Bridge_+-AA;
+IdModule  = biomaker_challenge:CD-HD2004;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A1DB7D6
+Path = /5A1724FA
+Reference = C12;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E0B4E1
+Path = /59DE0C70
+Reference = U7;
+ValeurCmp = RGB_LED;
+IdModule  = biomaker_challenge:RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A202FB3
+Path = /5A20309C
+Reference = L1;
+ValeurCmp = Ferrite_Bead;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A2708BB
+Path = /5A271D25
+Reference = D5;
+ValeurCmp = D_Zener;
+IdModule  = Diodes_SMD:D_SOD-323;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A2708C1
+Path = /5A271B90
+Reference = D6;
+ValeurCmp = D_Zener;
+IdModule  = Diodes_SMD:D_SOD-323;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A2708C7
+Path = /5A2710BE
+Reference = D7;
+ValeurCmp = D_Zener;
+IdModule  = Diodes_SMD:D_SOD-323;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AD77E0F
+Path = /5AD7DE9E
+Reference = C13;
+ValeurCmp = 100u;
+IdModule  = Resistors_SMD:R_2816;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AD7857D
+Path = /59DD8F8B
+Reference = IN1;
+ValeurCmp = Molex_micro_fit_3*2;
+IdModule  = biomaker_challenge:molex_micro_fit_3_by_2_right_angle;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AD78589
+Path = /59DD9015
+Reference = OUT1;
+ValeurCmp = Molex_micro_fit_3*2;
+IdModule  = biomaker_challenge:molex_micro_fit_3_by_2_right_angle;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AD78865
+Path = /5AD82CFB
+Reference = U8;
+ValeurCmp = hole;
+IdModule  = biomaker_challenge:3.1_hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AD7886A
+Path = /5AD82F34
+Reference = U9;
+ValeurCmp = hole;
+IdModule  = biomaker_challenge:3.1_hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AD7886F
+Path = /5AD83072
+Reference = U10;
+ValeurCmp = hole;
+IdModule  = biomaker_challenge:3.1_hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AD78874
+Path = /5AD831B1
+Reference = U11;
+ValeurCmp = hole;
+IdModule  = biomaker_challenge:3.1_hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AD86BCF
+Path = /5AD86C97
+Reference = U1;
+ValeurCmp = lm2676_TO-263;
+IdModule  = TO_SOT_Packages_SMD:TO-263-7_TabPin8;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AD86F86
+Path = /5AD7D4F0
+Reference = C14;
+ValeurCmp = 10u;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AD88586
+Path = /5AD88C3F
+Reference = R1;
+ValeurCmp = 1r;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADF4CEA
+Path = /5ADFB243
+Reference = C16;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADF4CFB
+Path = /5ADF5948
+Reference = R11;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADF4CFC
+Path = /5ADF4F2F
+Reference = U12;
+ValeurCmp = PCA9511A;
+IdModule  = Housings_SSOP:TSSOP-8_4.4x3mm_Pitch0.65mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADF4D2A
+Path = /5ADF3315
+Reference = U13;
+ValeurCmp = ferg_logo;
+IdModule  = biomaker_challenge:ferg_graphic;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADF4D3F
+Path = /5ADF51F3
+Reference = U14;
+ValeurCmp = NL17SZ126;
+IdModule  = TO_SOT_Packages_SMD:SOT-553;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADF93CE
+Path = /5ADFC04F
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADF93DF
+Path = /5ADFC8AF
+Reference = R13;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE0A554
+Path = /59DDAF4B
+Reference = P1;
+ValeurCmp = CONN_01X05;
+IdModule  = Connectors_JST:JST_XH_S05B-XH-A_05x2.50mm_Angled;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE0A55C
+Path = /59DECB8E
+Reference = P2;
+ValeurCmp = CONN_01X05;
+IdModule  = Connectors_JST:JST_XH_S05B-XH-A_05x2.50mm_Angled;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE0A564
+Path = /59DECD62
+Reference = P3;
+ValeurCmp = CONN_01X05;
+IdModule  = Connectors_JST:JST_XH_S05B-XH-A_05x2.50mm_Angled;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE0A6EB
+Path = /5AE0AB8F
+Reference = R12;
+ValeurCmp = 0R;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+EndListe
